@@ -16,7 +16,7 @@ This visual plan provides a high-level overview of the system. It highlights how
 
 ## 📊 Sequence Diagram
 
-![Sequence Diagram](diagrams/Sequence Diagram.jpeg)  
+![Sequence Diagram](https://github.com/shahinda383/Sales-Forecasting-and-Optimization/blob/main/diagrams/Sequence%20Diagrame%20System.jpeg)  
 
 The sequence diagram demonstrates the interactions between modules, including data pipelines, model training, and deployment, showing the flow of operations and the order in which tasks are executed.
 
@@ -180,5 +180,6 @@ This enterprise-grade architecture shows how data flows through the platform:
 ---
 
 *Experience a fully integrated, enterprise-grade machine learning platform – where data meets intelligence, optimization drives decisions, and insights become actionable business value.*
+
 
 
