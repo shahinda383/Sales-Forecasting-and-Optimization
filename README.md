@@ -8,7 +8,7 @@ This repository showcases *state-of-the-art workflows, automation, explainable m
 
 ## 📌 Project Plan
 
-![Plan of My Model](diagrams/plan_of_my_model.png)  
+![Plan of My Model](https://github.com/shahinda383/Sales-Forecasting-and-Optimization/blob/main/diagrams/plan_of_my_model.jpg)  
 
 This visual plan provides a high-level overview of the system. It highlights how each component – from raw data ingestion to predictive models and business recommendations – fits together in a cohesive, end-to-end architecture.
 
@@ -180,4 +180,5 @@ This enterprise-grade architecture shows how data flows through the platform:
 ---
 
 *Experience a fully integrated, enterprise-grade machine learning platform – where data meets intelligence, optimization drives decisions, and insights become actionable business value.*
+
 
