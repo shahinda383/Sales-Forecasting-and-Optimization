@@ -24,7 +24,7 @@ The sequence diagram demonstrates the interactions between modules, including da
 
 ## 🛠 Pipelines Overview
 
-![Pipelines Diagram](diagrams/pipelines_of_project.png)  
+![Pipelines Diagram](https://github.com/shahinda383/Sales-Forecasting-and-Optimization/blob/main/diagrams/project_piepelines.jpg)  
 
 This diagram illustrates the modular structure of the platform:
 
@@ -180,6 +180,7 @@ This enterprise-grade architecture shows how data flows through the platform:
 ---
 
 *Experience a fully integrated, enterprise-grade machine learning platform – where data meets intelligence, optimization drives decisions, and insights become actionable business value.*
+
 
 
 
