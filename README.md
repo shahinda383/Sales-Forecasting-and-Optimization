@@ -38,7 +38,7 @@ This diagram illustrates the modular structure of the platform:
 
 ## 🏗 System Architecture
 
-![System Architecture](diagrams/Architecture Diagrame System.jpeg)  
+![System Architecture](https://github.com/shahinda383/Sales-Forecasting-and-Optimization/blob/main/diagrams/Architecture%20Diagrame%20System.jpeg)  
 
 This enterprise-grade architecture shows how data flows through the platform:
 
@@ -180,3 +180,4 @@ This enterprise-grade architecture shows how data flows through the platform:
 ---
 
 *Experience a fully integrated, enterprise-grade machine learning platform – where data meets intelligence, optimization drives decisions, and insights become actionable business value.*
+
