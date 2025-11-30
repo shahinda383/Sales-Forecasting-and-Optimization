@@ -1,0 +1,80 @@
+# ===============================
+# Core Python
+# ===============================
+python-dotenv
+numpy
+pandas
+scipy
+scikit-learn
+joblib
+
+# ===============================
+# Visualization
+# ===============================
+matplotlib
+seaborn
+
+# ===============================
+# Feature Engineering
+# ===============================
+category_encoders
+statsmodels
+
+# ===============================
+# Machine Learning
+# ===============================
+xgboost
+lightgbm
+catboost
+
+# ===============================
+# Deep Learning 
+# ===============================
+torch
+torchvision
+
+# ===============================
+# Model Registry + Experiment Tracking
+# ===============================
+mlflow
+
+# ===============================
+# Deployment (API)
+# ===============================
+fastapi
+uvicorn
+
+# ===============================
+# Monitoring + Logging
+# ===============================
+prometheus-client
+loguru
+
+# ===============================
+# Workflow Orchestration (اختياري)
+# ===============================
+apache-airflow
+
+# ===============================
+# Testing
+# ===============================
+pytest
+pytest-cov
+
+# ===============================
+# Utilities
+# ===============================
+tqdm
+pyyaml
+requests
+
+# ===============================
+# Data Validation
+# ===============================
+pydantic
+great_expectations
+
+# ===============================
+# Optimization
+# ===============================
+optuna

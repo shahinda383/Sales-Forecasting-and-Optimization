@@ -1,0 +1,17 @@
+RAW DATA DIRECTORY
+
+This folder contains the raw datasets used in the Sales Forecasting & Optimization Project. 
+All files here are considered source-of-truth and should not be modified.
+
+Contents:
+- Stores, Sales, Weather, Trends, Holidays, Social Media Sentiment, Macro Data, Fuel Prices, Competitor Prices
+
+Instructions:
+1. These datasets are obtained from public sources and APIs (Kaggle, OpenWeatherMap, Pytrends, Calendarific, etc.).
+2. All processing and cleaning is performed in the `processed/` directory.
+3. Users should not alter the raw files directly.
+4. For accessing detailed descriptions of each dataset, refer to the project documentation in `docs/`.
+
+Note:
+- Due to file size and sensitivity, raw datasets are excluded from GitHub. Please request access from the project administrator if needed.
+- This file serves as a reference for dataset origin and usage.
