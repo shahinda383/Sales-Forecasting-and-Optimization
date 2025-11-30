@@ -1,33 +1,32 @@
 # Deployment Layer – Production-Ready Infrastructure
 
-This folder contains all components required to deploy the project into a *production environment. It ensures that the machine learning models and pipelines are **accessible, scalable, and maintainable*.
+This folder contains all components related to deploying the project into a *production environment*, ensuring scalability, reliability, and accessibility for end-users.
 
-## Components
+## Contents
 
-### 1. API (FastAPI)
-- Provides REST endpoints for model inference.
-- Main endpoint: /predict  
-  Accepts input data (CSV/JSON) → Returns Forecast results.
-- Includes input validation, logging, and error handling.
-- Enables integration with external systems (e.g., ERP, web apps).
+### 1. API
+- Built using *FastAPI*.
+- Handles prediction requests with /predict endpoint.
+- Input: CSV or JSON data → Output: Forecast results.
 
-### 2. Web Application (Streamlit)
-- Interactive dashboard for end-users.
-- Upload CSV files to visualize predictions and performance metrics.
-- Provides real-time insights and simple visualizations for business decision-making.
+### 2. Streamlit Web App
+- Interactive dashboard for *visualization and user interaction*.
+- Users can upload CSV files and get *real-time forecasts*.
+- Designed for clarity, simplicity, and usability.
 
-### 3. Containerization (Docker)
-- Ensures consistent environment across machines and servers.
-- Dockerfile defines all dependencies for the API and Web App.
-- Ready for deployment on any platform supporting Docker.
+### 3. Docker Configuration
+- Contains *Dockerfile* and *docker-compose.yml*.
+- Enables reproducible environments for local and cloud deployment.
+- Ensures the app runs consistently on any machine.
 
-### 4. CI/CD (GitHub Actions)
-- Automates deployment whenever changes are pushed to the repository.
-- Pipeline ensures *code quality, model updates, and seamless delivery*.
-- Supports integration with testing scripts and monitoring.
+### 4. CI/CD Pipeline
+- GitHub Actions configured for *automatic deployment* on push.
+- Ensures that any updates are seamlessly deployed to the target environment.
 
-## Usage
-1. Build Docker containers:
-   ```bash
-   docker build -t project-api ./deployment/api
-   docker build -t project-web ./deployment/web_app
+## Notes
+- Deployment scripts are modular, scalable, and production-ready.
+- Designed to integrate with *MLOps monitoring and logging* pipelines.
+- Ready for extension to multi-user and cloud-based environments.
+
+*Key Technologies:*  
+FastAPI, Streamlit, Docker, GitHub Actions, CI/CD, Scalable Deployment
