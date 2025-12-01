@@ -24,33 +24,36 @@ The sequence diagram demonstrates the interactions between modules, including da
 
 ## 🛠 Pipelines Overview
 
+```
 project/
-│── data/
+├── data/
 │   ├── raw/
-│   │    ├── project.txt
+│   │   └── project.txt
 │   ├── processed/
-│   │    ├── README.md
-│   ├── features/
-│        ├── README.md
+│   │   └── README.md
+│   └── features/
+│       └── README.md
 │
-│── pipelines/
-│   ├── ingestion/        
+├── pipelines/
+│   ├── ingestion/
 │   ├── cleaning/
 │   ├── feature_engineering/
-│   ├── training/
+│   └── training/
 │
-│── models/
-│   ├── README.md        
+├── models/
+│   └── README.md
 │
-│── deployment/
+├── deployment/
 │
-│── optimization/
-│── mlops/
-│── tests/
-│── docs/
-│── diagrams/            
-│── requirements.txt
-│── README.md
+├── optimization/
+├── mlops/
+├── tests/
+├── docs/
+├── diagrams/
+│
+├── requirements.txt
+└── README.md
+```
 
 
 This structure illustrates the modular structure of the platform:
@@ -207,6 +210,7 @@ This enterprise-grade architecture shows how data flows through the platform:
 ---
 
 *Experience a fully integrated, enterprise-grade machine learning platform – where data meets intelligence, optimization drives decisions, and insights become actionable business value.*
+
 
 
 
