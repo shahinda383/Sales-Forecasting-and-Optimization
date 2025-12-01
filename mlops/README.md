@@ -4,7 +4,7 @@ Welcome to the **MLOps module** of our Sales Forecasting Project – a meticulou
 
 This folder encapsulates the essence of modern MLOps practices, integrating **experiment tracking, containerization, deployment, CI/CD, web applications, monitoring, and model drift detection**. Every component is engineered to ensure **reproducibility, reliability, and scalability**.
 
-![Plan of My Model](https://github.com/shahinda383/Sales-Forecasting-and-Optimization/blob/main/diagrams/plan_of_my_model.jpg) 
+![Plan of My Model](https://github.com/shahinda383/Sales-Forecasting-and-Optimization/blob/main/diagrams/Sales%20Forecast%20%26%20Optimization%20API.jpeg) 
 ---
 
 ## 🔹 Core Workflow
@@ -70,3 +70,4 @@ The MLOps pipeline follows a **seamless lifecycle** from data ingestion to actio
 
 
 **Experience the future of machine learning operations – where robustness meets scalability and intelligence meets automation.**
+
